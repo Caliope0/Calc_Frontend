@@ -1,0 +1,20 @@
+
+1. ¿Como crear un eventlising?
+ 
+° tener una referencia al elemento del doc que queremos agregarle el addEventlistener
+       
+        1.1 Agregar un addEventlistener (linea 3 al 5 del archivo Programa.js)
+        1.2 Crear una función colback   (linea del 6 al 8 archivo Programa.js)
+        1.3 Obtener la referencia de los datos que se requiere (linea del 10 y 11 archivo Programa.js)
+        1.4 Hacer la petición a nuestro backend (linea del 14 y 23 archivo Programa.js)
+        1.5 Obtener la respuesta (linea del 24 y 26 archivo Programa.js)
+        
+
+
+
+
+
+
+
+
+
